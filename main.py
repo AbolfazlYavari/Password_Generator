@@ -13,7 +13,7 @@ class UI(QMainWindow):
 
         uic.loadUi("password-generator.ui", self)
 
-        # entirely text changed check it again
+        
         self.textedit = self.findChild(QTextEdit, "textEdit_2")
         self.generatepass = self.findChild(QPushButton, "pushButton")
         self.clipboard = self.findChild(QPushButton, "pushButton_3")
@@ -49,7 +49,7 @@ class UI(QMainWindow):
 
     def passgenerate(self):
         global plength
-        # this part should get from slider
+        
 
         symbols = "!@#$%^&*()_+-=[]{}|\\;:'\"<>,./?~`"
         number_s = "0123456789"
@@ -114,7 +114,7 @@ class UI(QMainWindow):
                 my_password += char
 
             self.textedit.setText(my_password)
-        # check out this condtion when we want to not have neither number and symbol
+        
         if self.Uppercase.isChecked() and self.Lowercase.isChecked() and not self.Numbers.isChecked() and not self.Symbols.isChecked():
             pw_length = int(plength)
             my_password = ""
@@ -155,7 +155,7 @@ class UI(QMainWindow):
                 my_password += char
 
             self.textedit.setText(my_password.lower())
-        # check out
+        
 
         if not self.Uppercase.isChecked() and self.Lowercase.isChecked() and self.Numbers.isChecked() and not self.Symbols.isChecked():
             pw_length = int(plength)
@@ -187,7 +187,7 @@ class UI(QMainWindow):
 
             self.textedit.setText(my_password)
 
-        #check out two last options
+        
         if not self.Uppercase.isChecked() and not self.Lowercase.isChecked() and not self.Numbers.isChecked() and self.Symbols.isChecked():
             pw_length = int(plength)
             my_password = ""
