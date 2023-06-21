@@ -1,4 +1,4 @@
-# Password_Generator-v1.0
+# Password_Generator
 
 The Password Generator is a simple yet powerful tool that allows you to generate secure and customizable passwords effortlessly. With its intuitive user interface, you can easily tailor the generated passwords to meet your specific requirements. Whether you need a strong password for personal accounts, online services, or any other application, this tool has got you covered.
 
