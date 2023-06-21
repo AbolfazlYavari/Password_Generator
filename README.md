@@ -6,8 +6,11 @@ The Password Generator is a simple yet powerful tool that allows you to generate
 # Key Features
 
 •	Customizable password length: Adjust the length of your password using the slider control to generate passwords of varying lengths.
+
 •	Character set selection: Choose from a variety of character sets including uppercase letters, lowercase letters, numbers, and symbols. Select the combination of character sets that best suits your needs.
+
 •	One-click password generation: Simply click the "Generate" button to instantly create a password based on your chosen settings.
+
 •	Copy to clipboard: Conveniently copy the generated password to your clipboard with a single click, allowing for seamless integration into other applications or websites.
 
 
@@ -22,8 +25,11 @@ The Password Generator is a simple yet powerful tool that allows you to generate
 # Why Choose Password Generator?
 
 •	Security: Generate strong and unpredictable passwords that enhance the security of your accounts and data.
+
 •	Customization: Tailor your passwords by choosing the desired length and character sets, ensuring they meet specific requirements of various platforms.
+
 •	Efficiency: Save time and effort with the one-click generation and copy-to-clipboard functionality.
+
 •	Intuitive Interface: Enjoy a user-friendly interface that simplifies the process of generating passwords.
 
 
