@@ -14,13 +14,6 @@ The Password Generator is a simple yet powerful tool that allows you to generate
 •	Copy to clipboard: Conveniently copy the generated password to your clipboard with a single click, allowing for seamless integration into other applications or websites.
 
 
-# Getting Started
-
-1.	Download and install the Password Generator application.
-2.	Launch the application and specify your preferred password length.
-3.	Select the desired character sets for your password (e.g., uppercase, lowercase, numbers, symbols).
-4.	Click the "Generate" button to generate a password.
-5.	Optionally, click the "Copy" button to copy the generated password to your clipboard for easy pasting.
 
 # Why Choose Password Generator?
 
